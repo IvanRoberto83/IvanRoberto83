@@ -1,9 +1,14 @@
 ## Hi there, I'm Ivan! 👋
 An Informatics Student From Duta Wacana Christian University Based in <b>Indonesia 🇮🇩</b>
 <br/>
+Passionate about building intelligent systems and solving real-world problems through technology.
+<br/>
 Focusing on:
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=16&pause=1000&color=BFC9D1&center=false&vCenter=true&width=600&lines=Artificial+Intelligence+%F0%9F%A4%96;Machine+Learning+%F0%9F%A7%A0;UI%2FUX+Design+%F0%9F%8E%A8;Video+Editing+%F0%9F%8E%AC;Graphic+Design+%F0%9F%96%8C%EF%B8%8F;Web+Development+%F0%9F%8C%90;App+Development+%F0%9F%93%B1" alt="Typing SVG"/>
+
+> 💭 <i>"Hard work is worthless for those that don't believe in themselves." — Naruto</i>
+<br/>
 
 ## 📞 Connect with Me:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:robertoivan83@gmail.com) 
