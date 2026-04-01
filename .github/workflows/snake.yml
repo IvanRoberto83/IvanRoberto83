@@ -15,12 +15,16 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Snake
-        uses: Platane/snk@v3
+        uses: antonibe/snake-svg-output@v1
         with:
           github_user_name: IvanRoberto83
-          outputs: |
-            dist/github-snake.svg?palette=halloween
-            dist/github-snake-dark.svg?palette=halloween
+          snake_color: ff6b00
+          background_color: 0d1117
+          dot_color_empty: 3d1f00
+          dot_color_1: 7a3d00
+          dot_color_2: cc5500
+          dot_color_3: ff6b00
+          dot_color_4: ffd400
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
