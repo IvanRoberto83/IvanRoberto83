@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: IvanRoberto83
           outputs: |
-            dist/github-snake.svg?color_snake=%23ff6b00&color_dots=%231a0a00,%233d1f00,%237a3d00,%23cc5500,%23ff6b00
-            dist/github-snake-dark.svg?color_snake=%23ff6b00&color_dots=%231a0a00,%233d1f00,%237a3d00,%23cc5500,%23ff6b00
+            dist/github-snake.svg?color_snake=%23bfc9d1&color_dots=%231a0a00,%233d1f00,%237a3d00,%23cc5500,%23ff6b00
+            dist/github-snake-dark.svg?color_snake=%23bfc9d1&color_dots=%231a0a00,%233d1f00,%237a3d00,%23cc5500,%23ff6b00
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
