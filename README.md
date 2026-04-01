@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ivan%20Roberto%20Halim&fontSize=42&fontColor=00f5ff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descColor=a0a0c0&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&animation=twinkling" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96;UI%2FUX+Designer+%F0%9F%8E%A8;Creative+Technologist+%F0%9F%8E%AC;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
