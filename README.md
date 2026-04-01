@@ -59,5 +59,5 @@ Focusing on:
 </picture>
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7a3d00,50:ff6b00,100:f77f00&height=120&section=footer&animation=twinkling" />
 </div>
