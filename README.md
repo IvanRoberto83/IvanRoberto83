@@ -1,29 +1,20 @@
-<div align="center">
-
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&animation=twinkling" />
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96;UI%2FUX+Designer+%F0%9F%8E%A8;Creative+Technologist+%F0%9F%8E%AC;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
-
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&animation=twinkling"/>
 </div>
 
----
+## Hi there, I'm Ivan! 👋
+An Informatics Student From Duta Wacana Christian University Based in <b>Indonesia 🇮🇩</b>
+<br/>
+Focusing on:
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=16&pause=1000&color=BFC9D1&center=false&vCenter=true&width=600&lines=Artificial+Intelligence+%F0%9F%A4%96;Machine+Learning+%F0%9F%A7%A0;UI%2FUX+Design+%F0%9F%8E%A8;Video+Editing+%F0%9F%8E%AC;Graphic+Design+%F0%9F%96%8C%EF%B8%8F" alt="Typing SVG" />
 
-## `$ whoami`
-
-```python
-class Ivan:
-    name       = "Ivan Roberto Halim"
-    university = "Duta Wacana Christian University"
-    major      = "Computer Science"
-    focus      = ["Artificial Intelligence", "Machine Learning",
-                  "UI/UX Design", "Video Editing", "Graphic Design"]
-    status     = "Always learning, always building 🚀"
-    contact    = "robertoivan@gmail.com"
-```
-
----
+## 🌐 Connect with Me:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:robertoivan83@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivan-roberto-halim-r83) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r.van83) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ivanroberto083) 
 
 ## `$ ls skills/`
 
