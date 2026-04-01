@@ -14,11 +14,7 @@ Focusing on:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:robertoivan83@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivan-roberto-halim-r83) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r.van83) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ivanroberto083) 
-
-## `$ ls skills/`
-
-<div align="center">
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/533516730627260455) 
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -46,36 +42,11 @@ Focusing on:
 ![CorelDraw](https://img.shields.io/badge/CorelDRAW-67B346?style=for-the-badge&logo=coreldraw&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 
-</div>
-
----
-
-## `$ cat projects/featured`
-
-<div align="center">
-
+## My Projects
 | 🏗️ Project | 📝 Description | 🔧 Tech |
 |---|---|---|
-| **Yayasan Wredha Mulya Yogyakarta** | Official website for a senior care foundation in Yogyakarta — built to improve digital presence and information accessibility | HTML · CSS · JS · PHP · MySQL |
+| **Yayasan Wredha Mulya Yogyakarta** | Official website for a senior care foundation in Yogyakarta — built to improve digital presence and information accessibility | HTML · CSS · JS · PHP · MySQL · Wordpress |
 | **Portfolio Web** *(coming soon)* | Personal portfolio showcasing projects, skills & creative work | 🔨 In Progress |
-
-</div>
-
----
-
-## `$ ping ivan --social`
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-robertoivan%40gmail.com-00f5ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertoivan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming%20Soon-302b63?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-In%20Development-302b63?style=for-the-badge&logo=firefox&logoColor=00f5ff)](#)
-
-</div>
-
----
-
-<div align="center">
 
 <!-- Snake Animation -->
 <picture>
@@ -84,8 +55,6 @@ Focusing on:
   <img alt="github-snake" src="https://raw.githubusercontent.com/IvanRoberto83/IvanRoberto83/output/github-snake-dark.svg" />
 </picture>
 
-</div>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=twinkling" />
 </div>
