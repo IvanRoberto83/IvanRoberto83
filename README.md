@@ -1,8 +1,3 @@
-<!-- Animated Header Banner -->
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=90&section=header&animation=twinkling"/>
-</div>
-
 ## Hi there, I'm Ivan! 👋
 An Informatics Student From Duta Wacana Christian University Based in <b>Indonesia 🇮🇩</b>
 <br/>
