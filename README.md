@@ -57,7 +57,7 @@ Focusing on:
 🔗 [Check Out the App!](https://github.com/Nicholandn22/MedicineReminderNew) 
 or [Check Out the IoT!](https://github.com/IvanRoberto83/MedTimeIoT)
 
-### 🌐 Yayasan Wredha Mulya Yogyakarta
+### 🌐 Yayasan Wredha Mulya Yogyakarta (Profile Website)
 > Official website for a senior care foundation in Yogyakarta — built to improve digital presence and information accessibility.
 
 **Tech:** `HTML` `CSS` `JavaScript` `PHP` `MySQL` `WordPress`
