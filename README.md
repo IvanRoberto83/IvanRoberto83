@@ -54,7 +54,7 @@ Focusing on:
 
 **Tech:** `Kotlin (Android)` `Firebase` `Arduino (C/C++)` `Node.js` `RESTful API` `MQTT` `Google TTS API`
 
-🔗 [Check Out the App!](https://github.com/Nicholandn22/MedicineReminderNew)
+🔗 [Check Out the App!](https://github.com/Nicholandn22/MedicineReminderNew) <br>
 🔗 [Check Out the IoT!](https://github.com/IvanRoberto83/MedTimeIoT)
 <br><br>
 
