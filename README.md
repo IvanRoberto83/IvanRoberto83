@@ -67,11 +67,8 @@ or [Check Out the IoT!](https://github.com/IvanRoberto83/MedTimeIoT)
 <br><br>
 
 <!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IvanRoberto83/IvanRoberto83/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/IvanRoberto83/IvanRoberto83/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/IvanRoberto83/IvanRoberto83/blob/output/github-snake-dark.svg" />
-</picture>
+![github-snake-dark](https://raw.githubusercontent.com/IvanRoberto83/IvanRoberto83/output/github-snake-dark.svg#gh-dark-mode-only)
+![github-snake-light](https://raw.githubusercontent.com/IvanRoberto83/IvanRoberto83/output/github-snake.svg#gh-light-mode-only)
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7a3d00,50:ff6b00,100:f77f00&height=120&section=footer&animation=twinkling" />
