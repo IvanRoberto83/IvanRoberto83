@@ -49,6 +49,15 @@ Focusing on:
 <br><br>
 
 ## 🚀 My Projects
+### 📱 MedTime (Medicine Reminder App & IoT)
+> A mobile-based medication reminder integrated with an IoT device — designed to alert users through both smartphone alarms and external speakers for better adherence.
+
+**Tech:** `Kotlin (Android)` `Firebase` `Arduino (C/C++)` `Node.js` `RESTful API` `MQTT` `Google TTS API`
+
+🔗 [Check Out the App!](https://github.com/Nicholandn22/MedicineReminderNew)
+🔗 [Check Out the IoT!](https://github.com/IvanRoberto83/MedTimeIoT)
+<br><br>
+
 ### 🌐 Yayasan Wredha Mulya Yogyakarta
 > Official website for a senior care foundation in Yogyakarta — built to improve digital presence and information accessibility.
 
