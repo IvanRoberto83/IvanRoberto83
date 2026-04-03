@@ -43,8 +43,9 @@ Focusing on:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ## 🎨 Design & Creative
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-4C00FF?style=for-the-badge&logo=canva&logoColor=white)
 ![CorelDraw](https://img.shields.io/badge/CorelDRAW-67B346?style=for-the-badge&logo=coreldraw&logoColor=white)
+![PixelLab](https://img.shields.io/badge/PixelLab-00AEED?style=for-the-badge&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 <br><br>
 
