@@ -47,6 +47,7 @@ Focusing on:
 ![CorelDraw](https://img.shields.io/badge/CorelDRAW-67B346?style=for-the-badge&logo=coreldraw&logoColor=white)
 ![PixelLab](https://img.shields.io/badge/PixelLab-00AEED?style=for-the-badge&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+![KineMaster](https://img.shields.io/badge/KineMaster-FF4A4A?style=for-the-badge&logoColor=white)
 <br><br>
 
 ## 🚀 My Projects
