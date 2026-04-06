@@ -56,8 +56,8 @@ Focusing on:
 
 **Tech:** `Kotlin` `Firebase` `Arduino (C/C++)` `Node.js` `RESTful API` `MQTT` `Google TTS API`
 
-🔗 [Check Out the App!](https://github.com/Nicholandn22/MedicineReminderNew) 
-or [Check Out the IoT!](https://github.com/IvanRoberto83/MedTimeIoT)
+🔗 [Check Out the App!](https://github.com/IvanRoberto83/MedTimeApp.git) 
+or [Check Out the IoT!](https://github.com/IvanRoberto83/MedTimeIoT.git)
 <br><br>
 
 ### 🌐 Yayasan Wredha Mulya Yogyakarta (Profile Website)
