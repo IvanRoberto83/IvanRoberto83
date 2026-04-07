@@ -56,8 +56,8 @@ Focusing on:
 
 **Tech:** `Kotlin` `Firebase` `Arduino (C/C++)` `Node.js` `RESTful API` `MQTT` `Google TTS API`
 
-🔗 [Check Out the App!](https://github.com/IvanRoberto83/MedTimeApp.git) 
-or [Check Out the IoT!](https://github.com/IvanRoberto83/MedTimeIoT.git)
+🔗 [View App Repository](https://github.com/IvanRoberto83/MedTimeApp.git) 
+or [View IoT Repository](https://github.com/IvanRoberto83/MedTimeIoT.git)
 <br><br>
 
 ### 🌐 Yayasan Wredha Mulya Yogyakarta (Profile Website)
@@ -65,7 +65,7 @@ or [Check Out the IoT!](https://github.com/IvanRoberto83/MedTimeIoT.git)
 
 **Tech:** `HTML` `CSS` `JavaScript` `PHP` `MySQL` `WordPress`
 
-🔗 [Check Out the Web!](https://yayasanwredhamulya.com)
+🔗 [View Web Repository](https://github.com/IvanRoberto83/WebsiteYWM.git)
 <br><br>
 
 <!-- Snake Animation -->
