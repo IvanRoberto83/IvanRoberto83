@@ -27,13 +27,14 @@ Focusing on:
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-FF781E?style=for-the-badge&logo=kotlin&logoColor=white)
 
-## 🌐 Web & Database
+## 🌐 Web, Cloud & Database
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-blue?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ## 🛠️ Tools & Platforms
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -51,6 +52,22 @@ Focusing on:
 <br><br>
 
 ## 🚀 My Projects
+### 📱 Yayasan Wredha Mulya Attendance App
+> An Android-based attendance management system, featuring real-time data synchronization and cloud-based media storage.
+
+**Tech:** `Kotlin` `Android Studio` `Firebase` `Cloudinary`
+
+🔗 [View App Repository](https://github.com/IvanRoberto83/AttendanceApp.git) 
+<br><br>
+
+### 🌐 Yayasan Wredha Mulya Profile Website
+> Official website for a senior care foundation in Yogyakarta — built to improve digital presence and information accessibility.
+
+**Tech:** `HTML` `CSS` `JavaScript` `PHP` `MySQL` `WordPress`
+
+🔗 [View Web Repository](https://github.com/IvanRoberto83/WebsiteYWM.git)
+<br><br>
+
 ### 📱 MedTime (Medicine Reminder App & IoT)
 > A mobile-based medication reminder integrated with an IoT device — designed to alert users through both smartphone alarms and external speakers for better adherence.
 
@@ -58,14 +75,6 @@ Focusing on:
 
 🔗 [View App Repository](https://github.com/IvanRoberto83/MedTimeApp.git) 
 or [View IoT Repository](https://github.com/IvanRoberto83/MedTimeIoT.git)
-<br><br>
-
-### 🌐 Yayasan Wredha Mulya Yogyakarta (Profile Website)
-> Official website for a senior care foundation in Yogyakarta — built to improve digital presence and information accessibility.
-
-**Tech:** `HTML` `CSS` `JavaScript` `PHP` `MySQL` `WordPress`
-
-🔗 [View Web Repository](https://github.com/IvanRoberto83/WebsiteYWM.git)
 <br><br>
 
 <!-- Snake Animation -->
