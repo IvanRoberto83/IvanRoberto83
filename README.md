@@ -60,12 +60,12 @@ Focusing on:
 🔗 [View App Repository](https://github.com/IvanRoberto83/AttendanceApp.git) 
 <br><br>
 
-### 🌐 Yayasan Wredha Mulya Profile Website
-> Official website for a senior care foundation in Yogyakarta — built to improve digital presence and information accessibility.
+### 🌐 Yayasan Wredha Mulya Logistics Website
+> A web-based logistics and inventory management system developed to help manage the inventory and distribution of goods at Yayasan Wredha Mulya.
 
-**Tech:** `HTML` `CSS` `JavaScript` `PHP` `MySQL` `WordPress`
+**Tech:** `HTML` `JavaScript` `Firebase` `Tailwind CSS`
 
-🔗 [View Web Repository](https://github.com/IvanRoberto83/WebsiteYWM.git)
+🔗 [View Web Repository](https://github.com/IvanRoberto83/LogisticsWeb.git)
 <br><br>
 
 ### 📱 MedTime (Medicine Reminder App & IoT)
